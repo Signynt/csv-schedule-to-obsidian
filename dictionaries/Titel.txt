@@ -1,4 +1,27 @@
 {
-"Fachblock Chirurgie VL": "Chirurgie",
-"QB12 Querschnittsblock Rehabilitation, Physikalische Medizin, Naturheilverfahren VL": "Naturheilverfahren"
+"Fachblock Chirurgie VL": "Chirurgie Vorlesung",
+"Blockpraktikum Chirurgie (Teil 1)": "Chirurgie Blockpraktikum (Teil 1)",
+
+"QB12 Querschnittsblock Rehabilitation, Physikalische Medizin, Naturheilverfahren VL": "Naturheilverfahren Vorlesung",
+
+"Fachblock Hygiene, Mikrobiologie, Virologie VL": "Mikrobiologie Vorlesung",
+"Fachblock Hygiene, Mikrobiologie, Virologie Praktikum": "Mikrobiologie Praktikum",
+
+"Fachblock Pharmakologie VL": "Pharmakologie Vorlesung",
+"Fachblock Pharmakologie POL": "Pharmakologie Seminar",
+
+"Fachblock Innere Medizin VL (Teil 2)": "Innere Medizin Vorlesung (Teil 2)",
+"Blockpraktikum Innere Medizin (Teil 1)": "Innere Medizin Blockpraktikum (Teil 1)",
+
+"Semestergespräch 2.klinisches Semester": "Semestergespräch 2 Klinisches Semester",
+"Fachschaft studentische Vollversammlung 2.klinisches": "Fachschaft Studentische Vollversammlung 2 Klinisches Semester",
+
+"Kompetenzfeld Gelenkschmerz (QB 12)": "Kompetenzfeld Gelenkschmerz",
+"Kompetenzfeld Fieber und Sepsis (QB 4)": "Kompetenzfeld Fieber und Sepsis",
+"Kompetenzfeld Venöse Thrombose (QB 11)": "Kompetenzfeld Venöse Thrombose",
+"Kompetenzfeld Ethik im ärztlichen Beruf (QB 2)": "Kompetenzfeld Ethik im ärztlichen Beruf",
+"Kompetenzfeld Polytrauma (QB 8)": "Kompetenzfeld Polytrauma",
+"Kompetenzfeld Transplantation und Transfusionsmedizin (QB 4)": "Kompetenzfeld Transplantation und Transfusionsmedizin",
+"Kompetenzfeld Lebensstil (QB 10)": "Kompetenzfeld Lebensstil",
+"Kompetenzfeld Tumorschmerz (QB 14)": "Kompetenzfeld Tumorschmerz"
 }
