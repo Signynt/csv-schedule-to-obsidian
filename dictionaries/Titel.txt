@@ -1,0 +1,4 @@
+{
+"Fachblock Chirurgie VL": "Chirurgie",
+"QB12 Querschnittsblock Rehabilitation, Physikalische Medizin, Naturheilverfahren VL": "Naturheilverfahren"
+}
