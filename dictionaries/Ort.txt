@@ -2,5 +2,7 @@
 "013 Hörsaal I (LFI, 250 Sitzpl.) (013/EG/HS I)": "LFI Uni Köln|Hörsaal I (LFI)",
 "013 Hörsaal II (LFI, 169 Sitzpl.) (013/EG/HS II)": "LFI Uni Köln|Hörsaal II (LFI)",
 "013 Hörsaal III (LFI, 169 Sitzpl.) (013/EG/HS III)": "LFI Uni Köln|Hörsaal III (LFI)",
-"035 Hörsaal II (Anatomie, 185 Sitzpl.) (035/EG/HS II)": "Anatomie Köln|Hörsaal II (Anatomie)"
+"035 Hörsaal II (Anatomie, 185 Sitzpl.) (035/EG/HS II)": "Anatomie Köln|Hörsaal II (Anatomie)",
+"035 Hörsaal I (Anatomie, 530 Sitzpl.) (035/EG/HS I)": "Anatomie Köln|Hörsaal I (Anatomie)",
+"035 Mikroskopiersaal I / PC-Pool (Anatomie, 125SP) (035/EG/Mikro1)": "Anatomie Köln|Mikroskopiersaal I (Anatomie)"
 }

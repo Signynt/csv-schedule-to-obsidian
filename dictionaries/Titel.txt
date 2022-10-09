@@ -1,6 +1,6 @@
 {
-"Fachblock Chirurgie VL": "Chirurgie Vorlesung",
 "Blockpraktikum Chirurgie (Teil 1)": "Chirurgie Blockpraktikum (Teil 1)",
+"Fachblock Chirurgie VL": "Chirurgie Vorlesung",
 
 "QB12 Querschnittsblock Rehabilitation, Physikalische Medizin, Naturheilverfahren VL": "Naturheilverfahren Vorlesung",
 

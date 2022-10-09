@@ -40,13 +40,13 @@ class ImportCSV:
         dictionary_ort = json.loads(ort_string)
 
         # dictionary for LV_ART
-        dictionary_art = {"VO": "Vorlesung", "SE": "Seminar", "PR": "Praktikum"}
+        dictionary_art = {"VO": "Vorlesung", "SE": "Seminar", "PR": "Praktikum", "FA": "Prüfung"}
 
         with open(self.csvFiles[0], mode='r', encoding='utf-8') as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             # skips the first line, since it's the header
-            next(csv_reader)
+            #next(csv_reader)
 
             for line in csv_reader:
                 # reformat dates
@@ -57,7 +57,7 @@ class ImportCSV:
                 prof_list = line['VORTRAGENDER_KONTAKTPERSON'].split("/")
                 seperator = ", "
                 
-                # function that reformats names from 'Lastname, Firstname' to '[[Firstname Lastname]]'
+                # function that reformats names from 'Lastname, Firstname; Doktortitel' to '[[Firstname Lastname]]'
                 def reformat_names(input):
                     return re.sub(r"\s?((.*),)\s?(.[^;]*)(.*)", r"[[\3 \2]]", input)
 
@@ -82,8 +82,14 @@ class ImportCSV:
 
                 fileName = f"./output/{line['DATUM']} {line['TITEL']}.md"
 
-                with open (fileName, "w", encoding='utf-8') as f:
-                    f.write(content)
+                fileNameSecond = f"./output/{line['DATUM']} {line['TITEL']} 2.md"
+
+                if not os.path.exists(fileName):
+                    with open (fileName, "w", encoding='utf-8') as f:
+                        f.write(content)
+                elif os.path.exists(fileName):
+                    with open (fileNameSecond, "w", encoding='utf-8') as f:
+                        f.write(content)
 
             # content_replaced = [substring.replace("VO", "Vorlesung") for substring in content]
             # print(content[2] + "\n" + fileName)
