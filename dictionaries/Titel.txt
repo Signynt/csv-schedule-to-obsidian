@@ -15,6 +15,10 @@
 
 "Semestergespräch 2.klinisches Semester": "Semestergespräch 2 Klinisches Semester",
 "Fachschaft studentische Vollversammlung 2.klinisches": "Fachschaft Studentische Vollversammlung 2 Klinisches Semester",
+"Fachschaft studentische Vollversammlung 3.klinisches": "Fachschaft Studentische Vollversammlung 3 Klinisches Semester",
+"Fachschaft studentische Vollversammlung 4.klinisches": "Fachschaft Studentische Vollversammlung 4 Klinisches Semester",
+"Fachschaft studentische Vollversammlung 5.klinisches": "Fachschaft Studentische Vollversammlung 5 Klinisches Semester",
+"Fachschaft studentische Vollversammlung 6.klinisches": "Fachschaft Studentische Vollversammlung 6 Klinisches Semester",
 
 "Kompetenzfeld Gelenkschmerz (QB 12)": "Kompetenzfeld Gelenkschmerz",
 "Kompetenzfeld Fieber und Sepsis (QB 4)": "Kompetenzfeld Fieber und Sepsis",
@@ -23,5 +27,36 @@
 "Kompetenzfeld Polytrauma (QB 8)": "Kompetenzfeld Polytrauma",
 "Kompetenzfeld Transplantation und Transfusionsmedizin (QB 4)": "Kompetenzfeld Transplantation und Transfusionsmedizin",
 "Kompetenzfeld Lebensstil (QB 10)": "Kompetenzfeld Lebensstil",
-"Kompetenzfeld Tumorschmerz (QB 14)": "Kompetenzfeld Tumorschmerz"
+"Kompetenzfeld Tumorschmerz (QB 14)": "Kompetenzfeld Tumorschmerz",
+"Kompetenzfeld Cardiopulmonale Reanimation Praktikum (QB8)": "Kompetenzfeld CPR",
+"Kompetenzfeld Cardiopulmonale Reanimation VL (QB 8)": "Kompetenzfeld CPR Vorlesung",
+"Kompetenzfeld Bewegungsstörungen (QB 7)": "Kompetenzfeld Bewegungsstörungen",
+"Kompetenzfeld Adhärenz und Selbstmedikation (QB 14)": "Kompetenzfeld Adhärenz und Selbstmedikation",
+"Kompetenzfeld Blutbildveränderungen (QB 10)": "Kompetenzfeld Blutbildveränderungen",
+"Kompetenzfeld Symptomkontrolle (QB13)": "Kompetenzfeld Symptomkontrolle",
+"Kompetenzfeld Erbkrankheiten (QB 2)": "Kompetenzfeld Erbkrankheiten",
+"Kompetenzfeld Arterielle Gefäßerkrankungen (QB 11)": "Kompetenzfeld Arterielle Gefäßerkrankungen",
+
+"QB11 Querschnittsblock Bildgebende Verfahren, Strahlenschutz und Strahlentherapie Praktikum (Teil 1)": "Bildgebende Verfahren Praktikum (Teil 1)",
+"QB4 Querschnittsblock Infektiologie & Immunologie (Teil Immunologie) VL": "Immunologie Vorlesung",
+"QB5 Querschnittsblock Klinisch-pathologische Konferenz VL": "Klinisch-pathologische Konferenz Vorlesung",
+"QB5 Querschnittsblock Klinisch-pathologische Konferenz Praktikum": "Klinisch-pathologische Konferenz Praktikum",
+"Q6 Querschnittsblock Klinische Umweltmedizin VL": "Klinische Umweltmedizin Vorlesung",
+
+"Fachblock Dermatologie VL": "Dermatologie Vorlesung",
+"Fachblock Gynäkologie VL": "Gynäkologie Vorlesung",
+"Fachblock Kinderheilkunde VL": "Kinderheilkunde Vorlesung",
+"Fachblock Orthopädie VL": "Orthopädie Vorlesung",
+"Fachblock Humangenetik VL": "Humangenetik Vorlesung",
+"Fachblock Humangenetik Seminar": "Humangenetik Seminar",
+
+"FMP - Klinische Umweltmedizin - Prüfung": "Klinische Umweltmedizin Prüfung",
+"FMP - Kinderheilkunde - Prüfung": "Kinderheilkunde Prüfung",
+"FMP - Frauenheilkunde, Geburtshilfe - Prüfung": "Frauenheilkunde, Geburtshilfe Prüfung",
+"FMP - Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz - Prüfung": "Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz Prüfung",
+"FMP - Klinisch-Pathologische Konferenz - Prüfung": "Klinisch-Pathologische Konferenz Prüfung",
+"FMP - Humangenetik - Prüfung": "Humangenetik Prüfung",
+"FMP - Orthopädie - Prüfung": "Orthopädie Prüfung",
+"FMP - Immunologie - Prüfung": "Immunologie Prüfung",
+"FMP - Dermatologie, Venerologie - Prüfung": "Dermatologie, Venerologie Prüfung"
 }

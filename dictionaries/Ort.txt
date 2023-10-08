@@ -2,7 +2,16 @@
 "013 Hörsaal I (LFI, 250 Sitzpl.) (013/EG/HS I)": "LFI Uni Köln|Hörsaal I (LFI)",
 "013 Hörsaal II (LFI, 169 Sitzpl.) (013/EG/HS II)": "LFI Uni Köln|Hörsaal II (LFI)",
 "013 Hörsaal III (LFI, 169 Sitzpl.) (013/EG/HS III)": "LFI Uni Köln|Hörsaal III (LFI)",
+"013 Hörsaal IV (LFI, 50 Sitzpl.) (013/EG/HS IV)": "LFI Uni Köln|Hörsaal IV (LFI)",
+"013 Hörsaal V (LFI, 80 Sitzpl.) (013/EG/HS V)": "LFI Uni Köln|Hörsaal V (LFI)",
 "035 Hörsaal II (Anatomie, 185 Sitzpl.) (035/EG/HS II)": "Anatomie Köln|Hörsaal II (Anatomie)",
 "035 Hörsaal I (Anatomie, 530 Sitzpl.) (035/EG/HS I)": "Anatomie Köln|Hörsaal I (Anatomie)",
-"035 Mikroskopiersaal I / PC-Pool (Anatomie, 125SP) (035/EG/Mikro1)": "Anatomie Köln|Mikroskopiersaal I (Anatomie)"
+"035 Mikroskopiersaal I / PC-Pool (Anatomie, 125SP) (035/EG/Mikro1)": "Anatomie Köln|Mikroskopiersaal I (Anatomie)",
+"065 RK 3 (ehem. Notfall 2, 16 Sitzpl.) (065/EG/EG.003)": "Uniklinik Köln|RK3 Erdgeschoss 3 - Raum 065", 
+"065 Seminarraum 4 (Studierendenhaus, 30 Sitzpl.) (065/01/SR4)": "KISS Uni Köln|KISS Seminarraum 4",
+"047 Hörsaal I (Frauenklinik, 157 Sitzpl.) (047/EG/HS I)": "Frauenklinik Uni Köln|Hörsaal I (Frauenklinik)",
+"008e Hörsaal I (Pathologie, 176 Sitzpl.) (008e/EG/HS I)": "Pathologie Köln|Hörsaal I (Pathologie)]",
+"008e Kursraum Pathologie (Pathologie) (008e/EG/KursraumPath)": "Pathologie Köln|Kursraum Pathologie]",
+"043 Hörsaal I (Orthopädie, 94 Sitzpl.) (043/EG/HS I)": "Orthopädie Uni Köln|Hörsaal I (Orthopädie)",
+"030 Hörsaal I (Neurologie, 119 Sitzpl.) (030/EG/HS I)": "Neurologie Uni Köln|Hörsaal I (Neurologie)"
 }

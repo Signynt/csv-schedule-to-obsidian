@@ -57,9 +57,9 @@ class ImportCSV:
                 prof_list = line['VORTRAGENDER_KONTAKTPERSON'].split("/")
                 seperator = ", "
                 
-                # function that reformats names from 'Lastname, Firstname; Doktortitel' to '[[Firstname Lastname]]'
+                # function that reformats names from 'Lastname, Firstname; Doktortitel' to '"[[Firstname Lastname]]"'
                 def reformat_names(input):
-                    return re.sub(r"\s?((.*),)\s?(.[^;]*)(.*)", r"[[\3 \2]]", input)
+                    return re.sub(r"\s?((.*),)\s?(.[^;]*)(.*)", r'\n  - "[[\3 \2]]"', input)
 
                 # reformats name lists and combines them again
                 reformated_prof_list = list(map(reformat_names, prof_list))
@@ -73,12 +73,11 @@ class ImportCSV:
                     line['TITEL'] = line['TITEL'].replace(entry, dictionary_titel[entry])
 
                 for entry in dictionary_ort:
-                    line['ORT'] = line['ORT'].replace(entry, f"[[{dictionary_ort[entry]}]]")
+                    line['ORT'] = line['ORT'].replace(entry, f"\"[[{dictionary_ort[entry]}]]\"")
 
                 line['ORT'] = re.sub(r"(.*siehe.*)", r"",line['ORT'])
 
-                # content.append(f"---\ntitle: {line['TITEL']}\nallDay: false\nstartTime: {line['VON']}\nendTime: {line['BIS']}\ndate: {line['DATUM']}\n---\n\n> [!info]+\n> - *type*:: {line['LV_ART']}\n> - *location*:: [[{line['ORT']}]]\n> - *professor*:: [[{line['VORTRAGENDER_KONTAKTPERSON']}]]\n> - *topic*:: {line['ANMERKUNG']}\n> - *reviewed*:: no\n")
-                content = f"---\ntitle: {line['TITEL']}\nallDay: false\nstartTime: {line['VON']}\nendTime: {line['BIS']}\ndate: {line['DATUM']}\n---\n\n> [!info]+\n> - *type*:: {line['LV_ART']}\n> - *location*:: {line['ORT']}\n> - *professor*:: {professors}\n> - *topic*:: {line['ANMERKUNG']}\n> - *reviewed*:: no\n"
+                content = f"---\ntitle: {line['TITEL']}\nallDay: false\nstartTime: {line['VON']}\nendTime: {line['BIS']}\ndate: {line['DATUM']}\nclass-type: {line['LV_ART']}\nlocation: {line['ORT']}\nprofessor: {professors}\ntopic: {line['ANMERKUNG']}\nreviewed: no\n---\n\n"
 
                 fileName = f"./output/{line['DATUM']} {line['TITEL']}.md"
 
