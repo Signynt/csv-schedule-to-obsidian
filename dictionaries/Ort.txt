@@ -10,8 +10,20 @@
 "065 RK 3 (ehem. Notfall 2, 16 Sitzpl.) (065/EG/EG.003)": "Uniklinik Köln|RK3 Erdgeschoss 3 - Raum 065", 
 "065 Seminarraum 4 (Studierendenhaus, 30 Sitzpl.) (065/01/SR4)": "KISS Uni Köln|KISS Seminarraum 4",
 "047 Hörsaal I (Frauenklinik, 157 Sitzpl.) (047/EG/HS I)": "Frauenklinik Uni Köln|Hörsaal I (Frauenklinik)",
-"008e Hörsaal I (Pathologie, 176 Sitzpl.) (008e/EG/HS I)": "Pathologie Köln|Hörsaal I (Pathologie)]",
-"008e Kursraum Pathologie (Pathologie) (008e/EG/KursraumPath)": "Pathologie Köln|Kursraum Pathologie]",
+"008e Hörsaal I (Pathologie, 176 Sitzpl.) (008e/EG/HS I)": "Pathologie Köln|Hörsaal I (Pathologie)",
+"008e Kursraum Pathologie (Pathologie) (008e/EG/KursraumPath)": "Pathologie Köln|Kursraum Pathologie",
 "043 Hörsaal I (Orthopädie, 94 Sitzpl.) (043/EG/HS I)": "Orthopädie Uni Köln|Hörsaal I (Orthopädie)",
-"030 Hörsaal I (Neurologie, 119 Sitzpl.) (030/EG/HS I)": "Neurologie Uni Köln|Hörsaal I (Neurologie)"
+"030 Hörsaal I (Neurologie, 119 Sitzpl.) (030/EG/HS I)": "Neurologie Uni Köln|Hörsaal I (Neurologie)",
+"031 Seminarraum (Psychiatrie, 25 Sitzpl.) (031/03/Seminar)": "Pyschiatrie Uni Köln|Seminarraum (Psychiatrie)",
+"065 Seminarraum 0 (Studierendenhaus) (065/02/0)": "KISS Uni Köln|KISS Seminarraum 0",
+"034 Hörsaal I (Augenklinik, 140 Sitzpl.) (034/EG/HS I)": "Augenklinik Köln|Hörsaal I (Augenklinik)",
+"044b Hörsaal II (Biochemie/Physiologie,107 Sitzpl) (044b/EG/HS II)": "MTI Hörsaalgebäude|Hörsaal II (Biochemie)",
+"065 Studierendenhaus (065/EG/Studhaus)": "KISS Uni Köln|KISS",
+"E-Prüfung - kein Raum": "E-Prüfung",
+"Virtuelle Veranstaltung - kein Raum": "Virtuelle Veranstaltung",
+
+"siehe Praktikumsheft": "",
+"Ortsangaben siehe Anmerkung / See note for location": "",
+"Externer Raum": "",
+"siehe Aushang der Institute": ""
 }
