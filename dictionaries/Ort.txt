@@ -19,6 +19,7 @@
 "034 Hörsaal I (Augenklinik, 140 Sitzpl.) (034/EG/HS I)": "Augenklinik Köln|Hörsaal I (Augenklinik)",
 "044b Hörsaal II (Biochemie/Physiologie,107 Sitzpl) (044b/EG/HS II)": "MTI Hörsaalgebäude|Hörsaal II (Biochemie)",
 "065 Studierendenhaus (065/EG/Studhaus)": "KISS Uni Köln|KISS",
+"640 Hörsaal (Rechtsmedizin, 143 Sitzpl.) (640/EG/HS)": "Rechtsmedizin Köln|Hörsaal (Rechtsmedizin)",
 "E-Prüfung - kein Raum": "E-Prüfung",
 "Virtuelle Veranstaltung - kein Raum": "Virtuelle Veranstaltung",
 
