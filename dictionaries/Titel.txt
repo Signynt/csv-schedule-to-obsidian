@@ -52,6 +52,7 @@
 "QB5 Querschnittsblock Klinisch-pathologische Konferenz Praktikum": "Klinisch-pathologische Konferenz Praktikum",
 "Q6 Querschnittsblock Klinische Umweltmedizin VL": "Klinische Umweltmedizin Vorlesung",
 "QB8 Querschnittsblock Notfallmedizin VL": "Notfallmedizin Vorlesung",
+"QB2 Querschnittsblock Geschichte, Theorie und Ethik  der Medizin VL": "Geschichte, Theorie und Ethik der Medizin Vorlesung",
 
 "Fachblock Dermatologie VL": "Dermatologie Vorlesung",
 "Fachblock Gynäkologie VL": "Gynäkologie Vorlesung",
@@ -99,7 +100,7 @@
 "FMP - Geschichte, Theorie, Ethik der Medizin - Prüfung": "Geschichte, Theorie, Ethik der Medizin Prüfung",
 "FMP - Infektiologie - Prüfung": "Infektiologie Prüfung",
 "FMP - Innere Medizin - Prüfung 2": "Innere Medizin Prüfung 2",
-"FMP - Klinische Pharmakologie, Pharmakotherapie - Prüfung": "Klinische Pharmakologie, Pharmakotherapie Prüfung",
+"FMP - Klinische Pharmakologie, Pharmakotherapie - Prüfung": "Klinische Pharmakologie und Pharmakotherapie Prüfung",
 "FMP - Medizin des Alterns und des alten Menschen - Prüfung": "Medizin des Alterns und des alten Menschen Prüfung",
 "FMP - Palliativmedizin - Prüfung": "Palliativmedizin Prüfung",
 "FMP - Pharmakologie, Toxikologie - Prüfung": "Pharmakologie, Toxikologie Prüfung",
@@ -128,6 +129,7 @@
 "Kompetenzfeld Rheumatologie (QB 4)": "Kompetenzfeld Rheumatologie",
 "Kompetenzfeld Therapiezieländerung (QB 13)": "Kompetenzfeld Therapiezieländerung",
 "Kompetenzfeld Zuckerhaushalt (QB 3)": "Kompetenzfeld Zuckerhaushalt",
+"Kompetenzfeld Therapiezieländerung (QB13)": "Kompetenzfeld Therapiezieländerung",
 
 "OSCE 2 Übungszeiten": "OSCE 2 Übungszeiten",
 "PJ-Nachmittag": "PJ-Nachmittag",
@@ -144,6 +146,7 @@
 "QB2 Querschnittsblock Geschichte, Theorie und Ethik der Medizin VL": "Geschichte, Theorie und Ethik der Medizin Vorlesung",
 "QB4 Querschnittsblock Infektiologie & Immunologie (Teil Infektiologie) VL": "Infektiologie Vorlesung",
 "QB7 Querschnittsblock Medizin des Alterns und des alten Menschen Praktikum": "Medizin des Alterns und des alten Menschen Praktikum",
+"QB7 Querschnittsblock Medizin des Alterns und des alten Menschen  Praktikum": "Medizin des Alterns und des alten Menschen Praktikum",
 "QB7 Querschnittsblock Medizin des Alterns und des alten Menschen VL": "Medizin des Alterns und des alten Menschen Vorlesung",
 "QB9 Querschnittsblock Klinische Pharmakologie POL": "Klinische Pharmakologie Seminar",
 "QB9 Querschnittsblock Klinische Pharmakologie VL": "Klinische Pharmakologie Vorlesung",
