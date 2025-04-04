@@ -151,5 +151,6 @@
 "QB9 Querschnittsblock Klinische Pharmakologie POL": "Klinische Pharmakologie Seminar",
 "QB9 Querschnittsblock Klinische Pharmakologie VL": "Klinische Pharmakologie Vorlesung",
 
-"Repetitorium Innere Medizin VL": "Innere Medizin Repetitorium Vorlesung"
+"Repetitorium Innere Medizin VL": "Innere Medizin Repetitorium Vorlesung",
+"KIS PJ-Startblock": "PJ Startblock"
 }
