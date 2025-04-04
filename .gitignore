@@ -1,0 +1,6 @@
+.python-version
+*.csv
+pyproject.toml
+.DS_Store
+uv.lock
+output
